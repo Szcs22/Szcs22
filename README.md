@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szcz22&label=Profile%20views&color=0e75b6&style=flat" alt="szcz22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szcz22" alt="szcz22" /></a> </p>
-
 - 👯 I’m looking to collaborate on **an innovative and energising team**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sofia-singam/**
